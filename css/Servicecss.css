@@ -65,47 +65,6 @@ ul li a:hover{
 outline: none;
 }
 
-.search{
-    width: 330px;
-    float: right;
-    margin-left: 250px;
-}
-
-.srch{
-    font-family: sans-serif;
-    width: 150px;
-    height: 40px;
-    background:  transparent;
-    border: 1px solid blueviolet;
-    margin-top: -70px;
-    color: aliceblue;
-    border-right: none;
-    font-size: 16px;
-    margin-right: 100px;
-    float: right;
-    padding: 10px;
-}
-
-.srch:focus{
-    outline: none;
-}
-.button{
-    float: right;
-    width: 100px;
-    height: 40px;
-    background: blueviolet;
-    border: 2px solid blueviolet;
-    margin-top: -70px;
-    color: aliceblue;
-    font-size; 15px;
-    border-bottom-right-radius: 5px;
-    border-bottom-right-radius:  5px;
-}
-
-.button:focus{
-outline: none;
-}
-
 h1{
     margin: 150px;
     text-align: center;
