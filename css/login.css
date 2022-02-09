@@ -1,0 +1,21 @@
+html{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(../Images/planbgimage.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+.card{
+    margin-left: 600px;
+    margin-top: 250px;
+    background-color: darkviolet;
+    height: 300px;
+    width: 500px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.card button{
+    border-radius: 5px;
+    background-color: darkslategray;
+}
